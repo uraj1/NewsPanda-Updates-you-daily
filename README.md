@@ -1,5 +1,7 @@
 # Getting Started with NewsPanda
 
+NewsPanda is an app which gives you news of different domains like sports, technology, health, entertainment etc. This web application is made with the help of ReactJs. Here the news is fetched using a News Api and is displayed on the page.
+
 # This is the preview of the app 
 
 ![Screenshot (105)](https://github.com/uraj1/NewsPanda-Updates-you-daily/assets/139366493/ff732f37-d497-4728-8728-8c86d9ee1e67)
